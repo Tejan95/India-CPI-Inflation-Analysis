@@ -1,4 +1,4 @@
-# India CPI Inflation & Global Oil Price Analysis (2017 - 2023)
+# India CPI Inflation 
 
 ## 📌 Project Overview
 This project is an end-to-end data analytics case study exploring how retail inflation moves in India and tracking whether global crude oil prices actually drive up daily living costs for the common man. Using **Advanced Excel** and **Pivot Tables**, I cleaned raw economic data, calculated month-on-month changes, isolated seasonal spikes, and ran statistical correlation tests to see the bigger picture.
